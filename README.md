@@ -66,7 +66,7 @@ Long-horizon property price forecasting with:
 
 ---
 
-### 🔹 POLARIS — AI Risk & Analysis *(if mature)*
+### 🔹 POLARIS — AI Risk & Analysis 
 A framework exploring:
 - Risk identification in AI systems
 - Decision boundaries under uncertainty
