@@ -15,7 +15,7 @@ AI/ML Systems Engineer • Full-Stack Builder
 ---
 
 ## 🔍 What I Build
-I build **systems — not scripts**.  
+I build **systems**.  
 Work that survives messy real data, scales across use cases, and has measurable behavior.
 
 My focus areas:
